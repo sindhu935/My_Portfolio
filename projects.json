@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Resume Analyzer",
+    "description": "A web-based resume analyzer that evaluates resumes based on predefined criteria and provides structured feedback to improve resume quality and presentation.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "icon": "📄",
+    "featured": false,
+    "github": "https://github.com/sindhu935"
+  },
+  {
+    "id": 2,
+    "title": "Hedamo Product Disclosure",
+    "description": "A structured and user-friendly product disclosure web application focused on clear presentation, accessibility, and clean UI/UX principles for better usability.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "icon": "📋",
+    "featured": false,
+    "github": "https://github.com/sindhu935"
+  },
+  {
+    "id": 3,
+    "title": "Job Portal",
+    "description": "A responsive job portal web application allowing users to browse, search, and apply for job listings. Built with a focus on intuitive design and seamless user experience.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "icon": "💼",
+    "featured": false,
+    "github": "https://github.com/sindhu935"
+  },
+  {
+    "id": 4,
+    "title": "Personal Portfolio Website",
+    "description": "A fully responsive portfolio website to showcase projects and skills. Applied modern UI/UX principles and responsive design techniques for better usability across all devices.",
+    "tags": ["HTML", "CSS", "JavaScript", "React.js"],
+    "icon": "🌐",
+    "featured": false,
+    "github": "https://github.com/sindhu935"
+  }
+]
