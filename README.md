@@ -19,6 +19,6 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript to
 
 ## GitHub Repository
 
-
+https://github.com/sindhu935/My_Portfolio
 ## Author
 Sindhu
